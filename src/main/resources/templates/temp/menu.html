@@ -1,0 +1,21 @@
+<div xmlns:th="http://www.thymeleaf.org" xmlns:sec="http://www.thymeleaf.org/extras/spring-security" th:fragment="menu" th:with="url=${#httpServletRequest.requestURI}">
+    <div class="sidenav">
+        <a href="?lang=en" th:if = "${#locale.language == 'tr'}"  th:text="#{site.english}"></a>
+        <a href="?lang=tr" th:if = "${#locale.language == 'en'}"  th:text="#{site.turkish}"></a>
+
+        <a href="/sessions" th:text="#{menu.sessions}" ></a>
+        <a href=/sessions/add th:text="#{menu.create_session}"></a>
+
+        <a href="/program" th:text="#{menu.programs}" ></a>
+        <a href=/program/add th:text="#{menu.add_program}"></a>
+
+        <a href="/tutor" th:text="#{menu.tutors}" ></a>
+        <a href=/tutor/add th:text="#{menu.add_tutor}"></a>
+
+        <a href="/participants" th:text="#{menu.participant}" ></a>
+        <a href=/participants/add th:text="#{menu.register_participant}"></a>
+
+        <a href="/login" sec:authorize="!isAuthenticated()" th:text="#{site.login}"></a>
+        <a href="/logout" sec:authorize="isAuthenticated()" th:text="#{site.logout}"></a>
+    </div>
+</div>

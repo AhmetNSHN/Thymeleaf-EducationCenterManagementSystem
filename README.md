@@ -5,35 +5,41 @@ centers to manage their programs, tutors, sessions and participants.<br /><br />
 
 step 1: Create Tutor 
 
-![add tutor](https://user-images.githubusercontent.com/64427438/150941900-ecca8519-7e07-4aef-8080-dec0123831a3.PNG)
-![tutors](https://user-images.githubusercontent.com/64427438/150941971-c623f5c6-851f-4802-8057-6ee2bae223af.PNG)
+![1](https://github.com/AhmetNSHN/Thymeleaf-EducationCenterManagementSystem/assets/64427438/c5b81a0a-1acb-4317-a0a7-cc1966745283)
+![2](https://github.com/AhmetNSHN/Thymeleaf-EducationCenterManagementSystem/assets/64427438/cfa2ab5d-f8c5-4def-a2cc-c159e1bd068d)
+
 
 
 
 
 step 2: create program
 
-![create program](https://user-images.githubusercontent.com/64427438/150942014-13f1315a-939e-4007-846c-4873cd8f9f94.PNG)
-![programs](https://user-images.githubusercontent.com/64427438/150946818-15315f65-7e80-4897-b691-bb7caad0f08b.PNG)
+![03](https://github.com/AhmetNSHN/Thymeleaf-EducationCenterManagementSystem/assets/64427438/8f8b8dcb-29ee-47c9-bea8-8bc64b827843)
+![04](https://github.com/AhmetNSHN/Thymeleaf-EducationCenterManagementSystem/assets/64427438/b41da3d0-8a99-4de3-8162-c8c25daa6071)
+
 
 
 
 
 step 3: create session by selecting program
+![5](https://github.com/AhmetNSHN/Thymeleaf-EducationCenterManagementSystem/assets/64427438/2d61c161-9c10-4340-9480-362392dae937)
+![6](https://github.com/AhmetNSHN/Thymeleaf-EducationCenterManagementSystem/assets/64427438/73806bf7-4d19-4e05-808b-f4861792d90d)
 
-![create session](https://user-images.githubusercontent.com/64427438/150942122-9b92737a-2635-4ea0-864d-c077a286600c.PNG)
-![sessions](https://user-images.githubusercontent.com/64427438/150942144-1e4c2d0f-1211-43e5-9c71-79b622040468.PNG)
+
+
 
 
 you can check session participants, add participants with search and remove (not completed yet)
+![7](https://github.com/AhmetNSHN/Thymeleaf-EducationCenterManagementSystem/assets/64427438/04fb27dc-de59-4d4e-a65a-c85e4b9f9412)
 
-![session participats](https://user-images.githubusercontent.com/64427438/150942325-f7f4032f-67b5-47f6-a1a6-d1db1cee11f8.PNG)
+
 
 
 or you can add participants to sessions while registering them
 
-![register participant](https://user-images.githubusercontent.com/64427438/150942395-66519c2a-8693-4641-b864-b051149648e6.PNG)
-![participants](https://user-images.githubusercontent.com/64427438/150942447-597d8467-660f-417b-936b-e0be210da953.PNG)
+![8](https://github.com/AhmetNSHN/Thymeleaf-EducationCenterManagementSystem/assets/64427438/cdd7783c-bbce-4eed-a76f-91f57c1c18d4)
+![10](https://github.com/AhmetNSHN/Thymeleaf-EducationCenterManagementSystem/assets/64427438/9f8bcbbb-104c-410f-be5d-e4c3508bc5e1)
+
 
 
 

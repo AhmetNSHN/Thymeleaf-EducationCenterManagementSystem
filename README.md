@@ -21,7 +21,7 @@ Education Center Management System helps education centers to manage their progr
 
 ### Manage Participants:
 
-You can check session participants, add participants with search, and remove (not completed yet).
+You can check session participants, add participants with search, and remove.
 
 ![Session Participants](https://github.com/AhmetNSHN/Thymeleaf-EducationCenterManagementSystem/assets/64427438/04fb27dc-de59-4d4e-a65a-c85e4b9f9412)
 
